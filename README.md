@@ -21,4 +21,12 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0908-middle-of-the-linked-list](https://github.com/SH1roV12/LeetCode/tree/master/0908-middle-of-the-linked-list) |
+## String
+|  |
+| ------- |
+| [1666-make-the-string-great](https://github.com/SH1roV12/LeetCode/tree/master/1666-make-the-string-great) |
+## Stack
+|  |
+| ------- |
+| [1666-make-the-string-great](https://github.com/SH1roV12/LeetCode/tree/master/1666-make-the-string-great) |
 <!---LeetCode Topics End-->
