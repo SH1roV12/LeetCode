@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SH1roV12/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1755-defuse-the-bomb](https://github.com/SH1roV12/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Hash Table
 |  |
 | ------- |
@@ -13,6 +14,7 @@ A collection of LeetCode questions to ace the coding interviews! - Created using
 |  |
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/SH1roV12/LeetCode/tree/master/0219-contains-duplicate-ii) |
+| [1755-defuse-the-bomb](https://github.com/SH1roV12/LeetCode/tree/master/1755-defuse-the-bomb) |
 ## Linked List
 |  |
 | ------- |
